@@ -98,7 +98,6 @@ body {
 	background: #f63330;
 	margin: -15px 0 0 -15px;
 }
-
 .back::after {
 	margin: -35px 0 0 -30px;
 	box-shadow: 40px 0, 0 25px, 40px 25px, 0 50px, 40px 50px;
