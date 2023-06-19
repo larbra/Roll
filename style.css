@@ -92,7 +92,6 @@ body {
 .left {
 	transform: rotateY(-90deg) translateZ(50px);
 }
-
 .front::after {
 	width: 30px;
 	height: 30px;
